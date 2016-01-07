@@ -27,3 +27,9 @@ Voila une reference pour savoir comment:
 -Installer JavaCard Plugins sur Netbeans
 -Creer une applet/web basee sur JavaCard
 https://netbeans.org/kb/docs/javame/java-card.html
+
+Dans cette link on peut voir un document qui explique:
+Les specifications des lecteurs 
+les differents types de smartcard
+Comment communiquer entre lecteur d'une part et smartcard d'autre part
+https://github.com/najidagher/Java-Card/issues/2
