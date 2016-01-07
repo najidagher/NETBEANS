@@ -19,3 +19,11 @@ c-Communication avec des terminales et Commandes APDU.
 d-Exemples et Simulation
        Comment programmer une application/applet JavaCard.
        Simulation lecture/ecriture sur une smartCard.
+
+
+
+
+Voila une reference pour savoir comment:
+-Installer JavaCard Plugins sur Netbeans
+-Creer une applet/web basee sur JavaCard
+https://netbeans.org/kb/docs/javame/java-card.html
