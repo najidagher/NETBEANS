@@ -37,4 +37,4 @@ https://github.com/najidagher/Java-Card/issues/2
 
 Voici un lien repondant a plusieurs questions concernant JavaCard:
 De meme il en existe de exemples de programmation
-http://umer555.blogspot.co m/
+http://umer555.blogspot.com/
