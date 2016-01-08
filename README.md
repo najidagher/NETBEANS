@@ -33,3 +33,8 @@ Les specifications des lecteurs
 les differents types de smartcard
 Comment communiquer entre lecteur d'une part et smartcard d'autre part
 https://github.com/najidagher/Java-Card/issues/2
+
+
+Voici un lien repondant a plusieurs questions concernant JavaCard:
+De meme il en existe de exemples de programmation
+http://umer555.blogspot.co m/
